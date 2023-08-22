@@ -90,4 +90,4 @@ Remembering that you need to have a [Figma](http://figma.com/) account to access
 
 ---
 
-Made with 💜 by [lucasfontesgaspareto](https://github.com/lucasfontesgaspareto)👋
+Made with ♥ by Diego Andrade :wave: [Get in touch!](https://www.linkedin.com/in/diego-r-andrade/)
